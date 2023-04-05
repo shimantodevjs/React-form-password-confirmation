@@ -6,8 +6,10 @@ function Form(){
             email:"",
             password:"",
             confirmPassword:"",
-            newsLetter:true
+            newsLetter:false
       })
+
+      
 
       function handleChange(event){
            
